@@ -1,0 +1,46 @@
+/* 
+  - Please don't delete any line.
+  - This file imported all framework files.
+  - To use this framework add :
+    `
+    <link
+      rel="stylesheet"
+      href="css/framework.css">
+    `
+    in your project.
+*/
+
+
+
+
+
+
+
+
+
+@import url(frameworkFiles/normalize.css);
+
+@import url(frameworkFiles/localDef.css);
+
+/* ^^^     RESET DEFAULT STYLES */
+
+
+
+@import url(frameworkFiles/margins.css);
+
+@import url(frameworkFiles/paddings.css);
+
+@import url(frameworkFiles/colors.css);
+
+@import url(frameworkFiles/bg-colors.css);
+
+@import url(frameworkFiles/text.css);
+
+@import url(frameworkFiles/borders.css);
+
+@import url(frameworkFiles/position.css);
+
+@import url(frameworkFiles/displays.css);
+
+@import url(frameworkFiles/gridLayout.css);
+
